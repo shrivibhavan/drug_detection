@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   icons: { icon: "/favicon.ico" },
   openGraph: {
     title: "SafeReach Chat",
-    description: "Secure group chat with drug content monitoring.",
+    description: "group chat with drug content monitoring.",
     type: "website",
   },
 };
